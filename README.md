@@ -1,6 +1,6 @@
 # Python_biobliotheque_num
-Ceci est un bout de code que j'ai decidé de mettre sur mon GitHub. Il s'agit de l'un de mes projets d'apprentissage du langage Python. En tant que débutant 
-dans la programmation, elle représente à la fois pour moi une reussite et une dose de motivation supplémentaire à aller plus loin dans mon apprentiissage.
+Ceci est un bout de code que j'ai decidé de mettre sur mon GitHub. Il s'agit de l'un de mes projets d'apprentissage du langage Python.
+
 ## Descriptif
 * Les utilisateurs doivent pouvoir ajouter un livre à leur liste de lecture en fournissant un titre de livre, un nom d’auteur, une année de publication.
 
